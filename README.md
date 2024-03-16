@@ -23,12 +23,27 @@ Tester:- Harshita sharma (2310990686)
 - Word Categories: Option to select word categories such as animals, fruits, countries, etc., adding variety and thematic coherence to the game.
 - Score Tracking: Keeps track of the player's score based on the number of incorrect guesses made and the time taken to guess the word.
 
-  
- ## Contact
+
+## Tester (testing the Starlife game versions)
+Version 1
+Description: This version of the Starlife game is implemented in Starlife.v1.py.
+Features: Basic functionality with word selection, guessing, and win/lose conditions.
+Changes : Please add comments to the code.
+File: Starlife.v1.py
+Version 2
+Description: This version of the Starlife game is implemented in Starlife.v2.py.
+Features: Enhanced features such as input validation, hints, and better user interface.
+Changes : Name final output as 'Starlife' and change the fiunction name.
+         Improved error handling for invalid inputs.
+File: Starlife.v2.py
+Version 3
+Description: This version of the Starlife game is implemented in Starlife.v3.py.
+Features: Advanced features like multiple difficulty levels and scoring system.
+Changes : Implemented three difficulty levels: Easy, Medium, and Hard.
+File: Starlife.v3.py 
+## The game is ready to be played
+## Contact
 For questions or feedback about Starlife, please contact us at @starlife.com.
-
-
-## Tester 
 
 
 
